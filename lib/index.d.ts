@@ -1,0 +1,1 @@
+export { AmiableAiProperties } from './service';
